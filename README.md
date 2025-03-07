@@ -1,1 +1,8 @@
-# Árvore de Decisao - Aprendizado Indutivo
+# Bem vindo ao nosso repositório sobre Árvore de Decisao, Aprendizado Indutivo!
+
+## Integrantes
+* Lucas Antunes Sampaio - R.A: 24.122.056-5
+* Romulo Carneiro de Oliveira Canavesso - R.A: 24.122.093-8
+
+## Sobre o repositório
+Este repositório é dedicado a organizar e entregar a atividade da disciplina CC771 sobre Árvore de Decisao, disponivel acessando a Wiki.
