@@ -5,4 +5,4 @@
 * Romulo Carneiro de Oliveira Canavesso - R.A: 24.122.093-8
 
 ## Sobre o repositório
-Este repositório é dedicado a organizar e entregar a atividade da disciplina CC771 sobre Árvore de Decisao, disponivel acessando a Wiki.
+Este repositório é dedicado a organizar e entregar a atividade da disciplina CC771 da faculdade FEI, tarefa referente a Árvore de Decisao. Todas as informações estão disponiveis acessando a Wiki desse repositório.
